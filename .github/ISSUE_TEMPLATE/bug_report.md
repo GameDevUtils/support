@@ -7,7 +7,7 @@ assignees: groundh0g
 
 ---
 
-** Platforms / Applications Affected **
+**Platforms / Applications Affected**
 
 You can create the issue, then check the boxes when viewing the issue, or you can place an "X" in the boxes that apply while editing the issue (e.g. `- [X]`).
 
