@@ -1,0 +1,32 @@
+---
+name: Report an issue with the documentation
+about: Briefly describe the issue here
+title: "[docs] docs issue title here"
+labels: docs
+assignees: groundh0g
+
+---
+
+Platforms / Applications Affected
+
+- Platforms
+  - [ ] Windows
+  - [ ] MacOS
+  - [ ] Linux
+  - [ ] Other (Describe in "The Problem", below.)
+
+- Applications
+  - [ ] Web App
+  - [ ] Desktop App
+  - [ ] Command-Line App
+  - [X] Documentation Issue
+  - [ ] Other (Describe in "The Problem", below.)
+
+## The Problem
+
+Give some detail about the documentation issue here.
+
+## The Expectation
+
+What did you expect to see? Include a link and/or screenshot, if applicable.
+
