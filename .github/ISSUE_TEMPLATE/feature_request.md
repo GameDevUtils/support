@@ -2,21 +2,38 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[enhancement] brief description of the feature you'd like to see"
-labels: bug
+labels: new
 assignees: groundh0g
 
 ---
 
+Platforms / Applications Affected
+
+- Platforms
+  - [ ] Windows
+  - [ ] MacOS
+  - [ ] Linux
+  - [ ] Other (Describe below.)
+
+- Applications
+  - [ ] Web App
+  - [ ] Desktop App
+  - [ ] Command-Line App
+  - [ ] Documentation Issue
+  - [ ] Other (Describe in "The Problem", below.)
+
 **Is your feature request related to a problem? Please describe.**
+
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Describe the solution you'd like**
+
 A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
+
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
 
-Be sure to add the label(s) for the platforms and apps that are affected.
+Add any other context or screenshots about the feature request here.
